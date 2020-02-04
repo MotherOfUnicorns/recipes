@@ -77,18 +77,18 @@ You'll need a wok, another pot for cooking vegetables, a metal/heat resistant si
 
 ### PART I
 - Mix Sichuan pepper (15g) and dried red chili (20g) in one bowl. Adjust the amount here to your liking.
-- Mix cinnamon, star anise, black cardamom and bay leaves in another bowl.
-- Slice ginger and garlic, cut spring onions into inch-long pieces, put in yet another bowl.
+- Mix cinnamon (1 stick), star anise (2 pieces), black cardamom (1 piece) and bay leaves (2-3 pieces) in another bowl.
+- Slice ginger (1 inch knob) and garlic (5-6 cloves), cut spring onions (3 pieces) into inch-long pieces, put in yet another bowl.
 ### PART II
 - Slice all veggies into bite size pieces
-- Mix Shaoxing wine and light soy sauce.
-- Boil some water.
+- Mix Shaoxing wine (30ml) and light soy sauce (30ml).
+- Boil some water (200ml).
 ### PART III
 - Slice beef into very thin slices (around 2mm thick) against the grain.
-- Mix with Shaoxing wine, soy sauce, starch, egg white and salt. Mix well and marinate for at least 15 minutes.
+- Mix with Shaoxing wine (1 tbsp), soy sauce (1 tbsp), starch (1 tsp), egg white and salt. Mix well and marinate for at least 15 minutes.
 ### PART IV
-- Mince the garlic finely.
-- Mix the chili flakes and powder in a bowl, adjust the amount to your taste.
+- Mince the garlic (2 cloves) finely.
+- Mix the chili flakes (1 tbsp) and powder (1 tbsp) in a bowl, adjust the amount to your taste.
 - Chop up coriander if using.
 
 ## Cooking & Assembly
