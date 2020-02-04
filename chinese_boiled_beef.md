@@ -14,7 +14,7 @@ You'll need a wok, another pot for cooking vegetables, a metal/heat resistant si
 
 ## Shopping list (i.e. everything in ingredients below)
 - boneless beef 250g
-- mushroom 150g
+- mushroom 150g (I like shimeji or enoki)
 - bean sprouts 150g
 - cabbage/pak choi/other leafy veggies to taste
 - 1 egg white
@@ -51,7 +51,7 @@ You'll need a wok, another pot for cooking vegetables, a metal/heat resistant si
 - garlic 5-6 cloves 
 ### PART II
 - oil 1 tbsp
-- mushrooms 150g (I like shimeji or enoki)
+- mushrooms 150g
 - cabbages/pak choi/whatever leafy greens around 300g
 - bean sprouts around 150g
 - other veggies (e.g. celery, but I don't like it, so I skipped it. You can be creative about the veggies in this part.) 
