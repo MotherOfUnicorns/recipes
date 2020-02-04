@@ -8,7 +8,7 @@ This is a classic Sichuan dish, and this recipe contains four parts:
 - boil beef slices
 - top off with hot oil
 
-Recommended to finish all preperations before cooking.
+Recommended to finish all preparations before cooking.
 
 You'll need a wok, another pot for cooking vegetables, a metal/heat resistant sift, and a deep serving bowl.
 
@@ -95,10 +95,10 @@ You'll need a wok, another pot for cooking vegetables, a metal/heat resistant si
 
 ### PART I
 - Heat up oil in wok.
-- Put in Sichuan pepper and dried red chili, fry util chili starts to turn dark slightly (about 1 min).
+- Put in Sichuan pepper and dried red chili, fry until chili starts to turn dark slightly (about 1 min).
 - Scoop out the pepper and chili with a metal sift, set aside and let cool.
 - Add cinnamon, star anise, black cardamom and bay leaves to hot oil, fry until fragrant (about 30s).
-- Add sliced ginger, spring onions and garlic to oil, fry util the onion and garlic turns golden.
+- Add sliced ginger, spring onions and garlic to oil, fry until the onion and garlic turns golden.
 - Turn off heat.
 - Scoop out all solids from the oil, discard the solids (or eat the fried garlic slices, they're yummy).
 - Use mortar and pestle to roughly grind the reserved Sichuan pepper and chili. (Alternatively, chop them up with a knife, but they have a tendency to fly around.) Put them back to a bowl. This will be used for the final assembly.
@@ -113,7 +113,7 @@ You'll need a wok, another pot for cooking vegetables, a metal/heat resistant si
 - Take veggies out and put them on the bottom of a deep serving bowl.
 ### PART III
 - Put marinated beef slices into the oil-water mixture one piece at a time, make sure they don't stick together.
-- Turn up heat, cook util the water is boiling and the beef is no longer pink. This shouldn't take too long as the beef is sliced very thin. Overcooking them will result in a rough and chewy texture. Turn off heat the moment the beef is no longer pink. 
+- Turn up heat, cook until the water is boiling and the beef is no longer pink. This shouldn't take too long as the beef is sliced very thin. Overcooking them will result in a rough and chewy texture. Turn off heat the moment the beef is no longer pink. 
 - Pour everything into the serving bowl on top of the veggies.
 ### PART IV
 - Put the pepper-chili mixture from PART I along with minced garlic, chili flakes and powder on top of everything in the serving bowl.
