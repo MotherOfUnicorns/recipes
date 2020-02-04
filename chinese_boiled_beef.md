@@ -21,7 +21,7 @@ You'll need a wok, another pot for cooking vegetables, a metal/heat resistant si
 - ginger 1 inch knob
 - spring onion 3 pieces
 - garlic 7-8 cloves
-- coriander leaves
+- coriander leaves (optional)
 - Shaoxing wine 45ml
 - light soy sauce 45 ml
 - [doubanjiang(豆瓣酱)](https://en.wikipedia.org/wiki/Doubanjiang) 1-2 tbsp
