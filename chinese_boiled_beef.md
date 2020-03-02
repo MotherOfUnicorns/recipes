@@ -1,5 +1,5 @@
 # Boiled Beef (水煮牛肉)
-based on https://m.meishichina.com/recipe/160576/
+based on [this recipe](https://m.meishichina.com/recipe/160576/)
 
 ## Summary
 This is a classic Sichuan dish, and this recipe contains four parts:
@@ -48,13 +48,13 @@ You'll need a wok, another pot for cooking vegetables, a metal/heat resistant si
 - bay leaves 2-3 pieces
 - ginger 1 inch knob
 - spring onions 3 pieces
-- garlic 5-6 cloves 
+- garlic 5-6 cloves
 ### PART II
 - oil 1 tbsp
 - mushrooms 150g
 - cabbages/pak choi/whatever leafy greens around 300g
 - bean sprouts around 150g
-- other veggies (e.g. celery, but I don't like it, so I skipped it. You can be creative about the veggies in this part.) 
+- other veggies (e.g. celery, but I don't like it, so I skipped it. You can be creative about the veggies in this part.)
 - [doubanjiang(豆瓣酱)](https://en.wikipedia.org/wiki/Doubanjiang) 1-2 tbsp
 - Shaoxing wine 30ml
 - light soy sauce 30ml
@@ -113,7 +113,7 @@ You'll need a wok, another pot for cooking vegetables, a metal/heat resistant si
 - Take veggies out and put them on the bottom of a deep serving bowl.
 ### PART III
 - Put marinated beef slices into the oil-water mixture one piece at a time, make sure they don't stick together.
-- Turn up heat, cook until the water is boiling and the beef is no longer pink. This shouldn't take too long as the beef is sliced very thin. Overcooking them will result in a rough and chewy texture. Turn off heat the moment the beef is no longer pink. 
+- Turn up heat, cook until the water is boiling and the beef is no longer pink. This shouldn't take too long as the beef is sliced very thin. Overcooking them will result in a rough and chewy texture. Turn off heat the moment the beef is no longer pink.
 - Pour everything into the serving bowl on top of the veggies.
 ### PART IV
 - Put the pepper-chili mixture from PART I along with minced garlic, chili flakes and powder on top of everything in the serving bowl.
