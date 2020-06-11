@@ -73,7 +73,7 @@ You'll need a wok, another pot for cooking vegetables, a metal/heat resistant si
 - chili powder 1 tbsp
 - coriander leaves (optional)
 
-## Preperations
+## Preparations
 
 ### PART I
 - Mix Sichuan pepper (15g) and dried red chili (20g) in one bowl. Adjust the amount here to your liking.
