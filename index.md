@@ -33,6 +33,7 @@
 ## Misc
 
 * [sate sauce](./misc_sate_sauce.md)
+* [bread sticks](./snacks_bread_sticks.md)
 
 ## Thai
 
