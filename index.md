@@ -32,7 +32,7 @@
 
 ## Korean
 
-* [kimchi](./kimchi.md)
+* [kimchi](./korean_kimchi.md)
 
 ## Misc
 
