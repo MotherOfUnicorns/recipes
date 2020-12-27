@@ -30,6 +30,10 @@
 
 * [pizza](./italian_pizza.md)
 
+## Korean
+
+* [kimchi](./kimchi.md)
+
 ## Misc
 
 * [sate sauce](./misc_sate_sauce.md)
