@@ -54,3 +54,4 @@ Much fusion. Very yum. (Based on [this](https://www.laylita.com/recipes/how-to-m
 - Move the empanadas to a plate lined with baking paper, and chill in the refrigerator for 15 minutes.
 - Optionally, brush a layer of beaten egg or milk wash.
 - Bake in the oven for 30 minutes.
+- <mark>To investigate: how to avoid explosion? poke holes?</mark>
