@@ -13,6 +13,10 @@
 * [cardamom bun](./dessert_cardamom_bun.md)
 * [chocolate mug cake](./dessert_chocolate_mug_cake.md)
 
+## Fusion
+
+* [cheese empanadas](./fusion_cheese_empanadas.md)
+
 ## Hawaiian
 
 * [poke bowl](./hawaiian_poke_bowl.md)
