@@ -28,6 +28,7 @@
 ## Indian
 
 * [chicken 65 biryani](./indian_chicken_65_biryani.md)
+* [lamb biryani](./indian_lamb_biryani.md)
 * [kichdi](./indian_khichdi.md)
 
 ## Italian
