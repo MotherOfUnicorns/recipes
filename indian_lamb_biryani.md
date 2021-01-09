@@ -90,7 +90,7 @@ You can pre-cook the meat and store in the freezer, and prepare the rice when fi
 - Drain the water, and optionally pick out the large spice pieces.
 
 
-## Cooking & Assembly
+### Assembly
 
 - Add hot water or milk to the saffron strands to extract its colour.
 - Roughly chop the mint leaves and coriander.
