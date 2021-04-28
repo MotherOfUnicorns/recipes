@@ -17,6 +17,7 @@
 * [rib spice](./rib_spice.md)
 * [massaman paste](./thai_massaman_paste.md)
 * [sate sauce](./misc_sate_sauce.md)
+* [red salsa](./mexican_salsa.md)
 
 ## Chinese
 
@@ -63,8 +64,9 @@
 
 ## Mexican
 
-* [beef taco](./mexican_beef_taco.md)
+* [red salsa](./mexican_salsa.md)
 * [tortilla](./mexican_tortilla.md)
+* [beef taco](./mexican_beef_taco.md)
 
 ## Thai
 
