@@ -1,5 +1,23 @@
 # Index
 
+## Doughy things
+
+* [tortilla](./mexican_tortilla.md)
+* [roti](./indian_roti.md)
+* [poori](./indian_poori.md)
+* [pasta](./italian_pasta.md)
+* [pizza](./italian_pizza.md)
+* [foccacia](./italian_foccacia.md)
+* [pita](./pita.md)
+* [bread sticks](./snacks_bread_sticks.md)
+
+## Sauces and Condiments
+
+* [chili oil](./chinese_chili_oil.md)
+* [rib spice](./rib_spice.md)
+* [massaman paste](./thai_massaman_paste.md)
+* [sate sauce](./misc_sate_sauce.md)
+
 ## Chinese
 
 * [beef stir fry](./chinese_beef_stir_fry.md)
@@ -30,19 +48,23 @@
 * [chicken 65 biryani](./indian_chicken_65_biryani.md)
 * [lamb biryani](./indian_lamb_biryani.md)
 * [kichdi](./indian_khichdi.md)
+* [roti](./indian_roti.md)
+* [poori](./indian_poori.md)
 
 ## Italian
 
+* [pasta](./italian_pasta.md)
 * [pizza](./italian_pizza.md)
+* [foccacia](./italian_foccacia.md)
 
 ## Korean
 
 * [kimchi](./korean_kimchi.md)
 
-## Misc
+## Mexican
 
-* [sate sauce](./misc_sate_sauce.md)
-* [bread sticks](./snacks_bread_sticks.md)
+* [beef taco](./mexican_beef_taco.md)
+* [tortilla](./mexican_tortilla.md)
 
 ## Thai
 
