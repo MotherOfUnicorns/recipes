@@ -1,5 +1,12 @@
 # Index
 
+## Dessert
+
+* [banana bread](./dessert_banana_bread.md)
+* [brownie](./dessert_brownie.md)
+* [cardamom bun](./dessert_cardamom_bun.md)
+* [chocolate mug cake](./dessert_chocolate_mug_cake.md)
+
 ## Doughy things
 
 * [tortilla](./mexican_tortilla.md)
@@ -19,32 +26,28 @@
 * [sate sauce](./misc_sate_sauce.md)
 * [red salsa](./mexican_salsa.md)
 
-## Chinese
+
+## By region
+
+### Chinese
 
 * [beef stir fry](./chinese_beef_stir_fry.md)
 * [boiled beef](./chinese_boiled_beef.md)
 * [chili oil](./chinese_chili_oil.md)
 
-## Dessert
-
-* [banana bread](./dessert_banana_bread.md)
-* [brownie](./dessert_brownie.md)
-* [cardamom bun](./dessert_cardamom_bun.md)
-* [chocolate mug cake](./dessert_chocolate_mug_cake.md)
-
-## Fusion
+### Fusion
 
 * [cheese empanadas](./fusion_cheese_empanadas.md)
 
-## Hawaiian
+### Hawaiian
 
 * [poke bowl](./hawaiian_poke_bowl.md)
 
-## Hungarian
+### Hungarian
 
 * [lecso](./hungarian_lecso.md)
 
-## Indian
+### Indian
 
 * [chicken 65 biryani](./indian_chicken_65_biryani.md)
 * [lamb biryani](./indian_lamb_biryani.md)
@@ -52,23 +55,23 @@
 * [roti](./indian_roti.md)
 * [poori](./indian_poori.md)
 
-## Italian
+### Italian
 
 * [pasta](./italian_pasta.md)
 * [pizza](./italian_pizza.md)
 * [foccacia](./italian_foccacia.md)
 
-## Korean
+### Korean
 
 * [kimchi](./korean_kimchi.md)
 
-## Mexican
+### Mexican
 
 * [red salsa](./mexican_salsa.md)
 * [tortilla](./mexican_tortilla.md)
 * [beef taco](./mexican_beef_taco.md)
 
-## Thai
+### Thai
 
 * [chicken massaman curry](./thai_chicken_massaman_curry.md)
 * [massaman paste](./thai_massaman_paste.md)
