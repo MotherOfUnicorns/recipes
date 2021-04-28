@@ -1,9 +1,8 @@
-# Roti
+# Poori
 
 
 ## Summary
 
-The flat bread, not the dish.
 This makes 2 servings.
 
 
@@ -11,7 +10,8 @@ This makes 2 servings.
 
 - 150 g [atta](https://en.wikipedia.org/wiki/Atta_flour)
 - 3 g salt
-- 150 g hot water
+- 130 g warm water (This should be a drier dough than roti)
+- frying oil
 
 
 ## Preparations
@@ -19,6 +19,6 @@ This makes 2 servings.
 - Mix everything together.
 - Shape the dough into a smooth ball. Cover and let rest for 15 minutes.
 - Divide the dough into 8 pieces. Shape each piece into a round ball.
-- Heat up a cast-iron pan or [tawa](https://en.wikipedia.org/wiki/Tava)
-- Roll each piece into a thin, round shape using extra flour to prevent sticking.
-- Cook on pan/tawa until slightly golden in color, turning when necessary.
+- Heat up frying oil in your vessel of choice.
+- Roll each piece into a thin, round shape, using oil instead of flour to prevent sticking.
+- Fry, one at a time. The pooris should puff up like a ball.
