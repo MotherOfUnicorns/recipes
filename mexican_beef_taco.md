@@ -1,6 +1,6 @@
 # Beef taco
 
-Adapted from recipes by [Aura Cocina Mexicana](auramexcooking.com).
+Adapted from recipes by [Aura Cocina Mexicana](https://www.auramexcooking.com).
 This makes 2 servings.
 
 First, make some [red salsa](./mexican_salsa.md),
