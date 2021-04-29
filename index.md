@@ -12,6 +12,7 @@
 * [tortilla](./mexican_tortilla.md)
 * [roti](./indian_roti.md)
 * [poori](./indian_poori.md)
+* [naan](./indian_naan.md)
 * [pasta](./italian_pasta.md)
 * [pizza](./italian_pizza.md)
 * [foccacia](./italian_foccacia.md)
@@ -54,6 +55,7 @@
 * [kichdi](./indian_khichdi.md)
 * [roti](./indian_roti.md)
 * [poori](./indian_poori.md)
+* [naan](./indian_naan.md)
 
 ### Italian
 
