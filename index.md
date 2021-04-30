@@ -62,6 +62,7 @@
 * [pasta](./italian_pasta.md)
 * [pizza](./italian_pizza.md)
 * [foccacia](./italian_foccacia.md)
+* [veggie lasagna](./italian_veggie_lasagna.md)
 
 ### Korean
 
