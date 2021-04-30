@@ -19,4 +19,4 @@ Comfort food. This makes about 4 servings.
 * In the meantime, slice ginger into thin match sticks.
 * When you can open the pressure cooker lid, add rest of the ingredients (ginger, frozen peas, bay leaf, basmati rice, ghee, salt, black pepper), and 5 cups water. Close lid and turn on heat to high until pressure builds up.
 * Turn heat to low and let cook for 5 minutes, then turn off heat.
-* Let cool until pressure is gone, and serve optionally with pickles.
+* Let cool until pressure is gone, and serve optionally with [achar](https://en.wikipedia.org/wiki/South_Asian_pickle).
