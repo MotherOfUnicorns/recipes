@@ -32,7 +32,7 @@ Makes about 3-4 servings.
 - Heat up 2 tbsp olive in a pan, and add onions and garlic. Cook for 2 minutes.
 - Add chopped bell pepper, cook for another 1 minute.
 - Add chopped mushrooms, cook for another 2 minutes.
-- Add canned tomatoes, cook for 1 minute.
+- Add canned tomatoes and chopped courgette, cook for 1 minute.
 - Add 100 ml white wine, and continue cooking.
 - Season with salt, black pepper and chili flakes.
 - Keep it on a simmer for 15-20 minutes until most of the water is evaporated.
