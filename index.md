@@ -40,6 +40,7 @@
 ### Fusion
 
 * [cheese empanadas](./fusion_cheese_empanadas.md)
+* [veggie wraps](./fusion_veggie_wrap.md)
 
 ### Hawaiian
 
