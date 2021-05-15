@@ -26,6 +26,7 @@
 * [massaman paste](./thai_massaman_paste.md)
 * [sate sauce](./misc_sate_sauce.md)
 * [red salsa](./mexican_salsa.md)
+* [guacamole](./mexican_guacamole.md)
 
 
 ## By region
@@ -71,6 +72,7 @@
 ### Mexican
 
 * [red salsa](./mexican_salsa.md)
+* [guacamole](./mexican_guacamole.md)
 * [tortilla](./mexican_tortilla.md)
 * [beef taco](./mexican_beef_taco.md)
 
