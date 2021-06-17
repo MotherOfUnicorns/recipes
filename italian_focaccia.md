@@ -1,4 +1,4 @@
-# Foccacia
+# Focaccia
 
 Makes 2 servings. Based on [this seriouseats recipe](https://www.seriouseats.com/recipes/2015/02/easy-no-knead-olive-rosemary-pistachio-focaccia-kenji-recipe.html).
 

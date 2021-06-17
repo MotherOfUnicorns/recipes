@@ -15,7 +15,7 @@
 * [naan](./indian_naan.md)
 * [pasta](./italian_pasta.md)
 * [pizza](./italian_pizza.md)
-* [foccacia](./italian_foccacia.md)
+* [focaccia](./italian_focaccia.md)
 * [pita](./pita.md)
 * [bread sticks](./snacks_bread_sticks.md)
 
