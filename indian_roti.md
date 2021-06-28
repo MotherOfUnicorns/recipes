@@ -11,7 +11,7 @@ This makes 2 servings.
 
 - 150 g [atta](https://en.wikipedia.org/wiki/Atta_flour)
 - 3 g salt
-- 150 g hot water
+- 130 g hot water
 
 
 ## Preparations

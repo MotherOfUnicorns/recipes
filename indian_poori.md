@@ -10,7 +10,7 @@ This makes 2 servings.
 
 - 150 g [atta](https://en.wikipedia.org/wiki/Atta_flour)
 - 3 g salt
-- 130 g warm water (This should be a drier dough than [roti](./indian_roti.md))
+- 110 g warm water (This should be a drier dough than [roti](./indian_roti.md))
 - frying oil
 
 
