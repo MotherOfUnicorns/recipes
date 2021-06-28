@@ -13,6 +13,7 @@
 * [roti](./indian_roti.md)
 * [poori](./indian_poori.md)
 * [naan](./indian_naan.md)
+* [pav](./indian_pav.md)
 * [pasta](./italian_pasta.md)
 * [pizza](./italian_pizza.md)
 * [focaccia](./italian_focaccia.md)
@@ -58,6 +59,7 @@
 * [roti](./indian_roti.md)
 * [poori](./indian_poori.md)
 * [naan](./indian_naan.md)
+* [pav](./indian_pav.md)
 
 ### Italian
 
