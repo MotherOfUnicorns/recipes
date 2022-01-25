@@ -55,7 +55,7 @@
 
 * [chicken 65 biryani](./indian_chicken_65_biryani.md)
 * [lamb biryani](./indian_lamb_biryani.md)
-* [kichdi](./indian_khichdi.md)
+* [khichdi](./indian_khichdi.md)
 * [roti](./indian_roti.md)
 * [poori](./indian_poori.md)
 * [naan](./indian_naan.md)
