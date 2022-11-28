@@ -19,6 +19,7 @@
 * [focaccia](./italian_focaccia.md)
 * [pita](./pita.md)
 * [bread sticks](./snacks_bread_sticks.md)
+* [khachapuri](./georgian_khachapuri.md)
 
 ## Sauces and Condiments
 
@@ -36,12 +37,17 @@
 
 * [beef stir fry](./chinese_beef_stir_fry.md)
 * [boiled beef](./chinese_boiled_beef.md)
+* [brisket curry](./chinese_brisket_curry.md)
 * [chili oil](./chinese_chili_oil.md)
 
 ### Fusion
 
 * [cheese empanadas](./fusion_cheese_empanadas.md)
 * [veggie wraps](./fusion_veggie_wrap.md)
+
+### Georgian
+
+* [khachapuri](./georgian_khachapuri.md)
 
 ### Hawaiian
 
