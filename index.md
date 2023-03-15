@@ -67,6 +67,10 @@
 * [naan](./indian_naan.md)
 * [pav](./indian_pav.md)
 
+### Indonesian
+
+* [semur](./indonesian_semur.md)
+
 ### Italian
 
 * [pasta](./italian_pasta.md)
