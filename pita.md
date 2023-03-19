@@ -20,7 +20,7 @@ Fresh pita. This is around 4 servings.
 - Shape the dough into a ball, coat with a splash of olive oil, and let rest in a tightly covered clean bowl for 1 hour.
 - Divide the dough into 8 equal portions. Shape each portion into a smooth ball.
 - Cover with a towel and let rest for 10 minutes on the counter.
-- Using extra flour to present sticking, roll out each ball into thin rounds (around 5 mm thick).
+- Using extra flour to prevent sticking, roll out each ball into thin rounds (around 5 mm thick).
 - Cover with a towel again and let rest for 30 minutes.
 
 ### Cooking
