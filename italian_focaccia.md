@@ -6,8 +6,8 @@ Makes 2 servings. Based on [this seriouseats recipe](https://www.seriouseats.com
 
 ### Dough
 
-- 150 g all-purpose flour
-- 150 g 00 flour
+- 130 g all-purpose flour
+- 130 g 00 flour
 - 7.5 g salt
 - 2 g yeast
 - 200 g warm water
