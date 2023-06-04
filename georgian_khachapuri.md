@@ -28,4 +28,12 @@ Serves 2.
 - Bake for 15 minutes, till the top starts to turn golden brown.
 - Take it out of oven, make a small well in the cheese mix, and crack an egg inside.
 - Bake for another 3-5 minutes until the egg starts to set.
-- Enjoy.
+- Add a slice of butter for extra flavour, and enjoy.
+
+
+With stuffed crust:
+![stuffed crust](images/georgian_khachapuri_stuffed_crust.jpg)
+
+
+Without stuffed crust:
+![normal crust](images/georgian_khachapuri_normal.jpg)
