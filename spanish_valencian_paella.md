@@ -2,7 +2,7 @@
 
 Valencia is one of my favourite cities. On our last visit we went to a cooking class at [Valencia Club Cocina](https://www.valenciaclubcocina.com/) to learn how to make paella.
 
-We bought a 26-inch stainless steel paella pan from a supermarket in Valencia, though we don't have the special gas range for cooking paella in professional kitchens.
+We bought a 26-inch stainless steel paella pan from a supermarket in Valencia, though we don't have the special gas range for cooking paella in professional kitchens. I'm yet to exepriment how well this works on a regular cast-iron pan.
 
 This recipe makes two servings.
 
