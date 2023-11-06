@@ -37,13 +37,18 @@
 
 * [beef stir fry](./chinese_beef_stir_fry.md)
 * [boiled beef](./chinese_boiled_beef.md)
-* [brisket curry](./chinese_brisket_curry.md)
 * [chili oil](./chinese_chili_oil.md)
+* [fish stew](./chinese_fish_stew.md)
 
 ### Fusion
 
 * [cheese empanadas](./fusion_cheese_empanadas.md)
 * [veggie wraps](./fusion_veggie_wrap.md)
+
+#### Hong Kong
+
+* [brisket curry](./hk_brisket_curry.md)
+* [minced beef](./hk_minced_beef_on_rice.md)
 
 ### Georgian
 
@@ -88,6 +93,11 @@
 * [guacamole](./mexican_guacamole.md)
 * [tortilla](./mexican_tortilla.md)
 * [beef taco](./mexican_beef_taco.md)
+
+### Spanish
+
+* [Valencian paella](./spanish_valencian_paella.md)
+* [Spanish omlette](./spanish_omelette.md)
 
 ### Thai
 
