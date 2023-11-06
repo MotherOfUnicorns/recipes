@@ -20,7 +20,7 @@ This recipe makes two servings.
 - a few strands of saffron
 - 1 tsp sweet paprika powder
 - 1/2 tsp turmeric (or food colouring)
-- 2 sprig of rosemary
+- 2 sprigs of rosemary
 
 
 ## Preparations
@@ -35,14 +35,14 @@ This recipe makes two servings.
 - Move the meat pieces to the edge of the pan. Add green beans, artichoke, and lima beans to the center of the pan.
 - when veggies start to turn soft, move everything to the edge of the pan again.
 - Turn heat as low as possible, and add minced garlic in the center along with saffron, turmeric, and paprika powder. Stir to combine
-- Add pureed tomato around the spices, and then mix together. Be careful to not burn the saffron.
+- Add pureed tomato around the spices, and mix. Be careful to not burn the saffron.
 - When the tomato mixture start to turn into a fragrant brown paste, mix everything together in the pan, and scrap the brown bits on the bottom.
 - Add 750 ml water (3 times of the amount of rice) to make a broth.
 - Use a spoon to measure the height of the liquid in the pan. We'll need this measurement later.
 - Adjust seasoning.
 - Simmer for 20-25 min until most water is evaporated.
-- Add more water, so the amount of liquid in the pan reaches height we previously measured with a spoon.
-- Add rice and stir for 1 min. After this you should refrain from moving the rice again.
+- Add more water, so the amount of liquid in the pan reaches the height we previously measured with a spoon.
+- Add rice and stir for 1 min. After this refrain from moving the rice again.
 - Cook on high heat for 10 min, followed by 5 min on medium heat.
 - Add rosemary. Adjust seasoning if needed. 
 - Finish off with medium-high heat for 1-2 min. The bottom should start to caramelise, producing "socarrat". This can be checked by poking the bottom of the pan with a spoon.
