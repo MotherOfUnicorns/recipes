@@ -48,3 +48,5 @@ This recipe makes two servings.
 - Cook on high heat for 10 min, followed by 5 min on medium heat.
 - Finish off with medium-high heat for 1-2 min. The bottom should start to caramelise, producing "socarrat". This can be checked by poking the bottom of the pan with a spoon.
 - Dig in!
+
+![Enjoy](images/paella.jpg)
