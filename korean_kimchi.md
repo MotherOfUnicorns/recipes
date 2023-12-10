@@ -33,6 +33,8 @@ Maangchi's [Napa cabbage kimchi](https://www.maangchi.com/recipe/tongbaechu-kimc
 - 120 ml fish sauce
 - 60 ml shrimp paste (I used this [Thai one](https://en.wikipedia.org/wiki/Shrimp_paste), but if you can, try to find [Korean fermented salted shrimp](https://en.wikipedia.org/wiki/Shrimp_paste))
 - 480 ml [gochugaru](https://www.maangchi.com/ingredient/hot-pepper-flakes)
+- (optional) sichuan pepper to taste
+- (optional) dried shrimp
 
 
 ## Preparations
