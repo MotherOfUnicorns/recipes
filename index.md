@@ -45,7 +45,7 @@
 * [cheese empanadas](./fusion_cheese_empanadas.md)
 * [veggie wraps](./fusion_veggie_wrap.md)
 
-#### Hong Kong
+### Hong Kong
 
 * [brisket curry](./hk_brisket_curry.md)
 * [minced beef](./hk_minced_beef_on_rice.md)
