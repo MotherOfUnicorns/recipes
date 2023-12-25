@@ -66,10 +66,10 @@ I also usually skip the peanuts in my Kung Pao Chicken.
     * Sauce
     * (Optional) peanuts
     * (Optional) scallion greens for garnish
-- In a wok, turn on heat to high, and cooking oil and swirl.
-- Add dried chilies and Sichuan pepper, stir-fry briefly until they start to darken in colour but not burnt.
-- Add chicken pieces. Stir to separate. Cook just until the pink colour is gone from the surface.
-- Add scallions, garlic, and ginger. Stir-fry until they are fragrant and the chicken just cooked but still tender. (poke with a chopstick)
-- Give the sauce a good stir and pour into the center of the work. Stir till all the chicken pieces are coated.
-- (Optional) mix in peanuts and give another good stir.
+- In a wok, with heat set to high, add cooking oil and swirl.
+- Add dried chilies and Sichuan pepper. Stir-fry briefly until they start to darken in colour but not burnt.
+- Add chicken pieces. Stir to separate. Cook until the pink colour disappears from the surface.
+- Add scallions, garlic, and ginger. Stir-fry until they are fragrant and the chicken just cooked but still tender. (Poke with a chopstick, or cut in half and see if it's still pink inside.)
+- Give the sauce a good stir and pour into the center of the wok. Stir till all the chicken pieces are coated.
+- (Optional) mix in peanuts and give it another good stir.
 - Serve, and garnish with scallion greens.
