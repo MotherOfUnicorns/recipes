@@ -1,6 +1,7 @@
 # 宮保雞丁 (Kung Pao Chicken)
 
 This is basically the recipe by the great Fuchsia Dunlop, but I found the seasoning in her version to be a tad too sweet for me.
+I find chicken thigh to be much jucier than breast; the cooking time needed for thigh pieces are just a bit longer than breast pieces.
 I also usually skip the peanuts in my Kung Pao Chicken.
 
 
