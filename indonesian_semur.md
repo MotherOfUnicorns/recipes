@@ -57,6 +57,6 @@ Add some water to aid the process, especially if using tomato concentrate instea
 ### cook
 
 - In a wok or deep pan, heat 2 tbsp oil and add curry paste. Cook until fragrant.
-- Add pre-cooked protein & vegetables and diluted coconut milk. Cook for 10 min.
+- Add pre-cooked protein & vegetables, diluted coconut milk, and the dry spice mix. Cook for 10 min.
 - Add brown sugar and soy sauce. Adjust seasoning if needed.
 - Serve with rice, and eat!
