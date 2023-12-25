@@ -39,6 +39,7 @@
 * [boiled beef](./chinese_boiled_beef.md)
 * [chili oil](./chinese_chili_oil.md)
 * [fish stew](./chinese_fish_stew.md)
+* [Kung Pao chicken](./chinese_kung_pao_chicken.md)
 
 ### Fusion
 
