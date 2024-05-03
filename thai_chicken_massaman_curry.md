@@ -23,5 +23,5 @@ You'll need some [Massaman paste](thai_massaman_paste.md), or some store-bought 
 - Add 3 tbsp coconut milk, stir until colour and fragrance are combined.
 - Add chicken pieces, and stir fry for 2-3 minutes until they're no longer pink.
 - Add onion and potatoes. Mix well.
-- Add all the other ingredients (coconut milk, bouillon / chick stock, sugar, tamarind juice).
+- Add all the other ingredients (coconut milk, bouillon / chicken stock, sugar, tamarind juice).
 - Serve wit rice.
