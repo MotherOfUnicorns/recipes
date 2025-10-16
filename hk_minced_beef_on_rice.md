@@ -15,13 +15,13 @@ This makes about 4 servings, and can be refrigerated or frozen if you want to pr
 - 500g minced beef
 - 5 cloves garlic
 - 2 yellow onions
-- 1 large carrot 
+- 1 large carrot
 - 6 tbsp tomato concentrate
 - (optional) frozen peas
 
 ### for the marinade
 
-- 2 tsp oyster sauce 
+- 2 tsp oyster sauce
 - 1 tsp white pepper powder
 - (optional) 1 tsp [鸡精](https://zh.wikipedia.org/zh-cn/%E9%9B%9E%E7%B2%89) or MSG
 - 2 tbsp light soy sauce
