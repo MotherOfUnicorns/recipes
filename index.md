@@ -6,20 +6,22 @@
 * [brownie](./dessert_brownie.md)
 * [cardamom bun](./dessert_cardamom_bun.md)
 * [chocolate mug cake](./dessert_chocolate_mug_cake.md)
+* [scones][./scones.md]
 
 ## Doughy things
 
-* [tortilla](./mexican_tortilla.md)
-* [roti](./indian_roti.md)
-* [poori](./indian_poori.md)
-* [naan](./indian_naan.md)
-* [pav](./indian_pav.md)
-* [pasta](./italian_pasta.md)
-* [pizza](./italian_pizza.md)
-* [focaccia](./italian_focaccia.md)
-* [pita](./pita.md)
 * [bread sticks](./snacks_bread_sticks.md)
+* [focaccia](./italian_focaccia.md)
 * [khachapuri](./georgian_khachapuri.md)
+* [naan](./indian_naan.md)
+* [pasta](./italian_pasta.md)
+* [pav](./indian_pav.md)
+* [pita](./pita.md)
+* [pizza](./italian_pizza.md)
+* [poori](./indian_poori.md)
+* [potato rolls](./potato_rolls.md)
+* [roti](./indian_roti.md)
+* [tortilla](./mexican_tortilla.md)
 
 ## Sauces and Condiments
 
