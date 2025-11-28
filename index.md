@@ -6,7 +6,7 @@
 * [brownie](./dessert_brownie.md)
 * [cardamom bun](./dessert_cardamom_bun.md)
 * [chocolate mug cake](./dessert_chocolate_mug_cake.md)
-* [scones][./scones.md]
+* [scones](./scones.md)
 
 ## Doughy things
 
