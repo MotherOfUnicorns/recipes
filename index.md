@@ -75,6 +75,8 @@
 * [poori](./indian_poori.md)
 * [naan](./indian_naan.md)
 * [pav](./indian_pav.md)
+* [ma ki dal](https://www.hawkinscookers.com/8.1.receipe.aspx?rcp_cd=44)
+* [rajma](https://www.hawkinscookers.com/8.1.receipe.aspx?rcp_cd=69)
 
 ### Indonesian
 
